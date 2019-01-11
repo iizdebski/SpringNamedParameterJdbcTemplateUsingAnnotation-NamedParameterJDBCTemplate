@@ -1,0 +1,3 @@
+# SpringNamedParameterJdbcTemplateUsingAnnotation-NamedParameterJDBCTemplate
+
+NamedParameterJdbcTemplateUsingAnnotation
